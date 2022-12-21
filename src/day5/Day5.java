@@ -1,9 +1,11 @@
+package day5;
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.*;
 
-public class NewMain {
+public class Day5 {
 	public static void main(String[] args) throws IOException {
 		String path = "src/test.txt";
 		String line = "";

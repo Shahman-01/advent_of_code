@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a468b420-f87a-41ac-9913-e429b56849dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day6/Day6_dop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7/Day7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7/test" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,7 +125,7 @@
       <workItem from="1671611934083" duration="1658000" />
       <workItem from="1676287963228" duration="7991000" />
       <workItem from="1676354828983" duration="1743000" />
-      <workItem from="1676391993701" duration="1209000" />
+      <workItem from="1676391993701" duration="4404000" />
     </task>
     <servers />
   </component>
@@ -141,16 +142,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day6/Day6_dop.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
